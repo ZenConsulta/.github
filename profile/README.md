@@ -1,93 +1,62 @@
-# 🩺 Agendamento de Consultas
+# 🩺 ZenConsulta
 
-Sistema simples para gerenciamento de consultas em clínicas e consultórios com poucos profissionais.
+A ZenConsulta é uma empresa fictícia criada com o objetivo de desenvolver soluções tecnológicas para clínicas, consultórios e profissionais da saúde.
 
-A aplicação permite que pacientes realizem agendamentos e que profissionais organizem sua agenda de atendimento de forma prática e eficiente.
-
----
-
-## 📌 Funcionalidades
-
-- Cadastro de profissionais
-- Cadastro de pacientes
-- Cadastro de especialidades
-- Definição de horários de atendimento
-- Agendamento de consultas
-- Validação de conflitos de horários
-- Listagem de consultas do dia
+Nosso foco está em simplificar o gerenciamento de consultas, organização de agendas e experiência de atendimento, oferecendo sistemas modernos, intuitivos e eficientes.
 
 ---
 
-## 👥 Perfis do Sistema
+## 🚀 Nossa Missão
 
-### Profissional
-- Gerenciar agenda
-- Definir horários disponíveis
-- Visualizar consultas agendadas
-
-### Paciente
-- Visualizar horários disponíveis
-- Agendar consultas
+Facilitar a rotina de profissionais da saúde através da tecnologia, tornando o processo de agendamento e gestão clínica mais simples, rápido e organizado.
 
 ---
 
-## 🧠 Regra de Negócio
+## 💡 O que fazemos
 
-Cada consulta vincula:
-
-- Paciente
-- Profissional
-- Horário
-
-O sistema valida automaticamente se o profissional já possui atendimento marcado no horário selecionado.
+- Sistemas de agendamento online
+- Gestão de pacientes
+- Controle de agendas médicas
+- Organização de atendimentos
+- Soluções digitais para clínicas e consultórios
 
 ---
 
-## 🎯 Objetivo do Projeto
+## 🎯 Nossa Visão
 
-Projeto desenvolvido para fins acadêmicos e prática de conceitos como:
+Ser referência em soluções digitais para gestão clínica, promovendo inovação, praticidade e melhor experiência para profissionais e pacientes.
 
-- CRUD
-- Modelagem de sistemas
-- Relacionamento entre entidades
-- Regras de negócio
-- Desenvolvimento Full Stack
+---
+
+## 🤝 Nossos Valores
+
+- Inovação
+- Simplicidade
+- Organização
+- Eficiência
+- Compromisso com a experiência do usuário
 
 ---
 
 ## 🛠️ Tecnologias
 
-> As tecnologias podem variar conforme a implementação do projeto.
+Trabalhamos com tecnologias modernas para garantir desempenho e escalabilidade:
 
-Exemplo:
-
-- Java / Spring Boot
+- Java
+- Spring Boot
 - Node.js
 - React
 - MySQL
-- HTML / CSS / JavaScript
+- HTML/CSS/JavaScript
 
 ---
 
-## 📂 Estrutura Base
+## 📌 Sobre
 
-```bash
-src/
- ├── controllers/
- ├── services/
- ├── repositories/
- ├── models/
- └── views/
-```
+Este perfil reúne projetos, estudos e aplicações desenvolvidas pela ZenConsulta voltadas para soluções de gestão clínica e agendamento de consultas.
 
 ---
 
-## 🚀 Status do Projeto
+## 🚧 Status
 
-🚧 Em desenvolvimento
-
----
-
-## 📄 Licença
-
-Projeto acadêmico para estudos e aprendizado.
+Em constante desenvolvimento.
