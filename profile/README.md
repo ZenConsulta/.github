@@ -38,25 +38,7 @@ Ser referência em soluções digitais para gestão clínica, promovendo inovaç
 
 ---
 
-## 🛠️ Tecnologias
-
-Trabalhamos com tecnologias modernas para garantir desempenho e escalabilidade:
-
-- Java
-- Spring Boot
-- Node.js
-- React
-- MySQL
-- HTML/CSS/JavaScript
-
----
-
 ## 📌 Sobre
 
 Este perfil reúne projetos, estudos e aplicações desenvolvidas pela ZenConsulta voltadas para soluções de gestão clínica e agendamento de consultas.
 
----
-
-## 🚧 Status
-
-Em constante desenvolvimento.
